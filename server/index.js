@@ -1,8 +1,7 @@
-const name = "Boat"
-console.log(name);
+let name = "Boat"
 console.log("Helloooo");
-if(name == "Frame") console.log(true);
-else console.log(false);
+name = "Kae";
+console.log("Kae");
 const express = require("express");
 const UniqueStringGenerator = require('unique-string-generator')
 const app = express();
