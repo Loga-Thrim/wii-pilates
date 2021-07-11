@@ -1,3 +1,4 @@
+const name = "Frame";
 console.log("Helloooo");
 const express = require("express");
 const UniqueStringGenerator = require('unique-string-generator')
