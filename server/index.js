@@ -1,3 +1,4 @@
+const name = "Boat"
 console.log("Helloooo");
 const express = require("express");
 const UniqueStringGenerator = require('unique-string-generator')
