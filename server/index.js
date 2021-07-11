@@ -1,7 +1,3 @@
-let name = "Boat"
-console.log("Helloooo");
-name = "Kae";
-console.log("Kae");
 const express = require("express");
 const UniqueStringGenerator = require('unique-string-generator')
 const app = express();
